@@ -19,3 +19,15 @@ Topics covered:
 - Cost Function
 - Gradient Descent
 
+# Week 2 - Multiple Linear Regression
+
+In this week I extended Linear Regression to work with multiple features.
+
+Topics covered:
+
+- Multiple Linear Regression
+- Vectorization with NumPy
+- Feature Scaling
+- Learning Rate tuning
+- Polynomial Regression
+- Using scikit-learn
