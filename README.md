@@ -31,3 +31,17 @@ Topics covered:
 - Learning Rate tuning
 - Polynomial Regression
 - Using scikit-learn
+
+# Week 3 - Logistic Regression and Regularization
+
+In this week I learned about classification problems.
+
+Topics covered:
+
+- Binary Classification
+- Logistic Regression
+- Sigmoid Function
+- Gradient Descent for Logistic Regression
+- Overfitting
+- Regularization (L2)
+- Logistic Regression using scikit-learn
